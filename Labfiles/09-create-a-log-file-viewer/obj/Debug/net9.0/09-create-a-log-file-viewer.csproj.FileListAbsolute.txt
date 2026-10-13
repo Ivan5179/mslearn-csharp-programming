@@ -1,0 +1,15 @@
+C:\Meus projetos no VS Code\exercicio learn\mslearn-csharp-programming\Labfiles\09-create-a-log-file-viewer\bin\Debug\net9.0\09-create-a-log-file-viewer.exe
+C:\Meus projetos no VS Code\exercicio learn\mslearn-csharp-programming\Labfiles\09-create-a-log-file-viewer\bin\Debug\net9.0\09-create-a-log-file-viewer.deps.json
+C:\Meus projetos no VS Code\exercicio learn\mslearn-csharp-programming\Labfiles\09-create-a-log-file-viewer\bin\Debug\net9.0\09-create-a-log-file-viewer.runtimeconfig.json
+C:\Meus projetos no VS Code\exercicio learn\mslearn-csharp-programming\Labfiles\09-create-a-log-file-viewer\bin\Debug\net9.0\09-create-a-log-file-viewer.dll
+C:\Meus projetos no VS Code\exercicio learn\mslearn-csharp-programming\Labfiles\09-create-a-log-file-viewer\bin\Debug\net9.0\09-create-a-log-file-viewer.pdb
+C:\Meus projetos no VS Code\exercicio learn\mslearn-csharp-programming\Labfiles\09-create-a-log-file-viewer\obj\Debug\net9.0\09-create-a-log-file-viewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Meus projetos no VS Code\exercicio learn\mslearn-csharp-programming\Labfiles\09-create-a-log-file-viewer\obj\Debug\net9.0\09-create-a-log-file-viewer.AssemblyInfoInputs.cache
+C:\Meus projetos no VS Code\exercicio learn\mslearn-csharp-programming\Labfiles\09-create-a-log-file-viewer\obj\Debug\net9.0\09-create-a-log-file-viewer.AssemblyInfo.cs
+C:\Meus projetos no VS Code\exercicio learn\mslearn-csharp-programming\Labfiles\09-create-a-log-file-viewer\obj\Debug\net9.0\09-create-a-log-file-viewer.csproj.CoreCompileInputs.cache
+C:\Meus projetos no VS Code\exercicio learn\mslearn-csharp-programming\Labfiles\09-create-a-log-file-viewer\obj\Debug\net9.0\09-create-a-log-file-viewer.sourcelink.json
+C:\Meus projetos no VS Code\exercicio learn\mslearn-csharp-programming\Labfiles\09-create-a-log-file-viewer\obj\Debug\net9.0\09-create-a-log-file-viewer.dll
+C:\Meus projetos no VS Code\exercicio learn\mslearn-csharp-programming\Labfiles\09-create-a-log-file-viewer\obj\Debug\net9.0\refint\09-create-a-log-file-viewer.dll
+C:\Meus projetos no VS Code\exercicio learn\mslearn-csharp-programming\Labfiles\09-create-a-log-file-viewer\obj\Debug\net9.0\09-create-a-log-file-viewer.pdb
+C:\Meus projetos no VS Code\exercicio learn\mslearn-csharp-programming\Labfiles\09-create-a-log-file-viewer\obj\Debug\net9.0\09-create-a-log-file-viewer.genruntimeconfig.cache
+C:\Meus projetos no VS Code\exercicio learn\mslearn-csharp-programming\Labfiles\09-create-a-log-file-viewer\obj\Debug\net9.0\ref\09-create-a-log-file-viewer.dll
